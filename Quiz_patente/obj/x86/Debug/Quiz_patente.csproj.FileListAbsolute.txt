@@ -1,0 +1,41 @@
+c:\users\pinna.13104\documents\visual studio 2010\Projects\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.exe
+c:\users\pinna.13104\documents\visual studio 2010\Projects\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.pdb
+c:\users\pinna.13104\documents\visual studio 2010\Projects\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Form1.resources
+c:\users\pinna.13104\documents\visual studio 2010\Projects\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Properties.Resources.resources
+c:\users\pinna.13104\documents\visual studio 2010\Projects\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csproj.GenerateResource.Cache
+c:\users\pinna.13104\documents\visual studio 2010\Projects\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.exe
+c:\users\pinna.13104\documents\visual studio 2010\Projects\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.pdb
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.exe
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.pdb
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.exe
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.pdb
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.exe
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.pdb
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Form1.resources
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Properties.Resources.resources
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csproj.GenerateResource.Cache
+C:\Users\jonat\Desktop\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.exe
+C:\Users\jonat\Desktop\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.pdb
+C:\Users\jonat\Desktop\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.exe
+C:\Users\jonat\Desktop\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.pdb
+C:\Users\jonat\Desktop\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Form1.resources
+C:\Users\jonat\Desktop\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Properties.Resources.resources
+C:\Users\jonat\Desktop\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csproj.GenerateResource.Cache
+C:\Users\jonat\Desktop\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csprojResolveAssemblyReference.cache
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csprojResolveAssemblyReference.cache
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.exe
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.pdb
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csprojResolveAssemblyReference.cache
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Form1.resources
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Properties.Resources.resources
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csproj.GenerateResource.Cache
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.exe
+E:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.pdb
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.exe
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.pdb
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.exe
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\bin\Debug\Quiz_patente.pdb
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csprojResolveAssemblyReference.cache
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Form1.resources
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.Properties.Resources.resources
+I:\Informatica 5IB\Informatica\Quiz_patente\Quiz_patente\obj\x86\Debug\Quiz_patente.csproj.GenerateResource.Cache
